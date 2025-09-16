@@ -5,11 +5,18 @@ Easily input your oven temperature and cooking time, then get optimized air frye
 
 ## Features
 
-Convert oven instructions → air fryer (temperature & time)
-Unit toggle between Celsius and Fahrenheit
-Quick adjustments with + / – buttons
-Light & dark themes with persistent preference
-Local storage support → values are saved across refreshes
+1. Convert oven instructions to air fryer (temperature & time)
+
+2. Unit toggle between Celsius and Fahrenheit
+
+3. Quick adjustments with + / – buttons
+
+4. Light & dark themes with persistent preference
+
+5. Local storage support where values are saved across refreshes
+
+## Live Demo
+This web app was deployed using [GitHub Pages](https://pages.github.com/).
 
 ## Installation
 
@@ -30,9 +37,9 @@ npm run build
 
 ## Usage
 
-Enter your oven temperature and cooking time.
-Switch between Celsius/Fahrenheit as needed.
-Click Convert.
-Get your air fryer temperature & time instantly.
-Use the theme toggle for light or dark mode.
+1. Enter your oven temperature and cooking time.
+2. Switch between Celsius/Fahrenheit as needed.
+3. Click Convert.
+4. Get your air fryer temperature & time instantly.
+5. Use the theme toggle for light or dark mode.
 
